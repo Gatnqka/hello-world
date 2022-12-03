@@ -1,2 +1,3 @@
 Test za prikachvane na fail ot komp v github
 Prika`waneto be uspeshno
+Vasko e patka
